@@ -1,0 +1,3 @@
+-keep class com.google.mlkit.** { *; }
+-keepattributes *Annotation*, InnerClasses
+-dontnote kotlinx.serialization.**
